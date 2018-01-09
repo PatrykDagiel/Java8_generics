@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java8_generics.iml" filepath="$PROJECT_DIR$/.idea/Java8_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raw_types/Raw_types.iml" filepath="$PROJECT_DIR$/Raw_types/Raw_types.iml" />
     </modules>
   </component>
 </project>
