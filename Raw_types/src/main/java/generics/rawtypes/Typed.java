@@ -12,7 +12,7 @@ public class Typed {
         strings.add("string");
 
         for(String s: strings) {
-            System.out.print("%7s has %d characters%n", s, s.length());
+            System.out.printf("%7s has %d characters%n", s, s.length());
         }
 
         List<Integer> ints = new ArrayList<>();
